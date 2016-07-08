@@ -1,0 +1,41 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+<file alias="logo.png">images/logo.png</file>
+<file alias="icon.png">images/icon.png</file>
+<file alias="filenew.png">images/filenew.png</file>
+<file alias="fileopen.png">images/fileopen.png</file>
+<file alias="filesave.png">images/filesave.png</file>
+<file alias="filesaveas.png">images/filesaveas.png</file>
+<file alias="filequit.png">images/filequit.png</file>
+<file alias="editcut.png">images/editcut.png</file>
+<file alias="editcopy.png">images/editcopy.png</file>
+<file alias="editpaste.png">images/editpaste.png</file>
+<file alias="editadd.png">images/editadd.png</file>
+<file alias="editedit.png">images/editedit.png</file>
+<file alias="editdelete.png">images/editdelete.png</file>
+<file alias="editindent.png">images/editindent.png</file>
+<file alias="editunindent.png">images/editunindent.png</file>
+<file alias="folder.png">images/folder.png</file>
+<file alias="next.png">images/next.png</file>
+<file alias="previous.png">images/previous.png</file>
+<file alias="up.png">images/up.png</file>
+<file alias="note.png">images/note.png</file>
+<file alias="dialog-cancel.png">images/dialog-cancel.png</file>
+<file alias="dialog-ok-apply.png">images/dialog-ok-apply.png</file>
+<file alias="document-edit.png">images/document-edit.png</file>
+<file alias="document-open.png">images/document-open.png</file>
+<file alias="document-save-as.png">images/document-save-as.png</file>
+<file alias="edit-table-delete-column.png">images/edit-table-delete-column.png</file>
+<file alias="edit-table-delete-row.png">images/edit-table-delete-row.png</file>
+<file alias="edit-table-insert-column-right.png">images/edit-table-insert-column-right.png</file>
+<file alias="edit-table-insert-row-below.png">images/edit-table-insert-row-below.png</file>
+<file alias="view-refresh.png">images/view-refresh.png</file>
+<file alias="merge.png">images/merge.png</file>
+<file alias="terminate.png">images/terminate.png</file>
+<file alias="noteNew.png">images/noteNew.png</file>
+<file alias="noteOpen.png">images/noteOpen.png</file>
+<file alias="graph.png">images/graph.png</file>
+<file alias="group.png">images/group.png</file>
+<file alias="describe.png">images/describe.png</file>
+</qresource>
+</RCC>
